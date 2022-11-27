@@ -1,1 +1,1 @@
-# neko-atsume-4
+# nekoatsume2
